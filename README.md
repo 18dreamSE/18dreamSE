@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [arhip/SEprojects]
+# 👋 Hi, I'm Arhip
 
 🚀 **Junior Developer / Software Engineering Enthusiast**
 
